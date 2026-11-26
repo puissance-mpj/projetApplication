@@ -1,0 +1,42 @@
+.tag{
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+input[type="text"], input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.prediction{
+
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: 5px;
+}
